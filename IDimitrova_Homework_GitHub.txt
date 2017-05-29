@@ -4,5 +4,6 @@ In this homework I am learning how to work with Git and to use GitHub.
 
 Instrument for project management:
 https://trello.com/
-
 Updating with bash...
+Update with Tortoise
+Adding some new lines to have a conflict again
